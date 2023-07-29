@@ -276,7 +276,7 @@ function querySt(ji) {
   
   
   if( ref==null){
-      ref = "0xd04BeFF1366e599752758a7c68afba9A9Dfa1379";
+      ref = "0x02C48af2F7809355bcdC8B43d267200B0606c1BE";
        document.getElementById('airinput').value = ref; 
   }else{ 
   document.getElementById('airinput').value = ref; 
